@@ -28,6 +28,10 @@ Example config.json:
 - Run the `index.js` file
 - Enjoy
 
+## Contact
 
+if you have any questions or need help setting up the dumper shoot me a message on discord at @mkxf
 
-**Disclaimer:** For educational use only. The author is not responsible for how this project is used. No warranties.
+## Disclaimer 
+
+For educational use only. The author is not responsible for how this project is used. No warranties.
